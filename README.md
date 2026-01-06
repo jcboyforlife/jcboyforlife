@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning HTML?CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: Papi Chulo
-- ⚡ Fun fact: I'm not fast
+- 😄 Pronouns: Papi
+- ⚡ Fun fact: I'm fast
 
 <!---
 jcboyforlife/jcboyforlife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
