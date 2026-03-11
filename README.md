@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcboyforlife
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning HTML?CSS
+- 🌱 I’m currently the bext vom
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: Papi
